@@ -1,0 +1,8 @@
+D:\day-5\ass9\ass9\bin\Debug\ass9.exe.config
+D:\day-5\ass9\ass9\bin\Debug\ass9.exe
+D:\day-5\ass9\ass9\bin\Debug\ass9.pdb
+D:\day-5\ass9\ass9\obj\Debug\ass9.csproj.AssemblyReference.cache
+D:\day-5\ass9\ass9\obj\Debug\ass9.csproj.SuggestedBindingRedirects.cache
+D:\day-5\ass9\ass9\obj\Debug\ass9.csproj.CoreCompileInputs.cache
+D:\day-5\ass9\ass9\obj\Debug\ass9.exe
+D:\day-5\ass9\ass9\obj\Debug\ass9.pdb
